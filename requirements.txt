@@ -1,0 +1,13 @@
+transformers
+torch
+flask
+streamlit
+datasetspip 
+fastapi
+uvicorn
+pydub
+whisper
+requests
+python-dotenv
+pyMuPDF
+google-generativeai
